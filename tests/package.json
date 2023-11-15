@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@tsconfig/svelte": "^5.0.2",
+    "svelte": "^4.2.3",
+    "typescript": "^5.2.2"
+  }
+}

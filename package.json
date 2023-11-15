@@ -1,0 +1,25 @@
+{
+  "name": "@mnrx/svelte-store",
+  "version": "1.0.0",
+  "description": "An implementation of `svelte/store` with more accurate tracking of derived store validity.",
+  "author": "mnrx <83848843+mnrx@users.noreply.github.com>",
+  "license": "OSL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnrx/svelte-store"
+  },
+  "bugs": {
+    "url": "https://github.com/mnrx/svelte-store/issues"
+  },
+  "homepage": "https://github.com/mnrx/svelte-store#readme",
+  "keywords": [
+    "svelte",
+    "store",
+    "svelte/store",
+    "writable",
+    "readable",
+    "derived"
+  ],
+  "type": "module",
+  "main": "src/main.ts"
+}
